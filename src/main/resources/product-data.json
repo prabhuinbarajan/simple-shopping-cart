@@ -1,0 +1,72 @@
+[
+  {
+    "_class": "com.example.shoppingcart.model.entity.Product",
+    "name": "Otterbox Etui",
+    "description": "Galaxy Tab 8.0 A 2019 Etui Otterbox",
+    "price": "54.94",
+    "id": 1
+  },
+  {
+    "_class": "com.example.shoppingcart.model.entity.Product",
+    "name": "Tablette Android RCT6K03W13",
+    "description": "Tablette Android RCT6K03W13 H1 de RCA de 10,1 po avec clavier Quadricœur avec 1 Go de MEV",
+    "price": "178.0",
+    "id": 2
+  },
+  {
+    "_class": "com.example.shoppingcart.model.entity.Product",
+    "name": "Grimpeur et toboggan Hide & Seek de Little Tikes",
+    "description": "Un toboggan, une balançoire, et un mur de roches",
+    "price": "159.20",
+    "id": 3
+  },
+  {
+    "_class": "com.example.shoppingcart.model.entity.Product",
+    "name": "Voyager 5200 Bluetooth Headset",
+    "description": "Oreillette Bluetooth Plantronics Voyager 5200",
+    "price": "104.48",
+    "id": 4
+  },
+  {
+    "_class": "com.example.shoppingcart.model.entity.Product",
+    "name": "Écouteurs sans fil Innovative Technology",
+    "description": "Livré avec un émetteur à DEL bleu, des adaptateurs de 3,5 mm et RCA",
+    "price": "36.98",
+    "id": 5
+  },
+  {
+    "_class": "com.example.shoppingcart.model.entity.Product",
+    "name": "Casque d'écoute supra-auriculaire de Koss - SB49",
+    "description": "Communication stéréophonique",
+    "price": "47.98",
+    "id": 6
+  },
+  {
+    "_class": "com.example.shoppingcart.model.entity.Product",
+    "name": "APPIE Smart Watch Fitnes",
+    "description": "Tracker with Heart Rate Monitor Activity Trackers 7 Sport Modes IP67 Waterproof Sleep Monitor",
+    "price": "35.69",
+    "id": 7
+  },
+  {
+    "_class": "com.example.shoppingcart.model.entity.Product",
+    "name": "Bracelet d'entraînement Flex 2 de Fitbit",
+    "description": "Mesure la distance parcourue, l'activité par heure, la dépense calorique et le nombre de pas",
+    "price": "79.95",
+    "id": 8
+  },
+  {
+    "_class": "com.example.shoppingcart.model.entity.Product",
+    "name": "Fitbit Charge Bracelet évolué pour l'entraînement",
+    "description": "Bracelet évolué pour l'entraînement",
+    "price": "199.94",
+    "id": 9
+  },
+  {
+    "_class": "com.example.shoppingcart.model.entity.Product",
+    "name": "Vélo de Montagne de 26 po Movelo",
+    "description": "Une poignée de changement à 18 vitesses",
+    "price": "98.95",
+    "id": 10
+  }
+]
