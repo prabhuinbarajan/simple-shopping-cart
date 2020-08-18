@@ -1,72 +1,30 @@
 [
   {
-    "_class": "com.example.shoppingcart.model.entity.Product",
-    "name": "Otterbox Etui",
-    "description": "Galaxy Tab 8.0 A 2019 Etui Otterbox",
-    "price": "54.94",
+    "_class": "com.bhn.shoppingcart.model.entity.Product",
+    "name": "HAPPY HOLIDAYS SWAP $50.00",
+    "productConfigurationId": "L769TTATAB8QF4DWS1T9CC6R3B",
+    "description": "Enjoy Your Happy Holidays Swap Gift Card!",
+    "termsAndConditions": "https://www.giftcards.com/gift-card-balance-check/happy-holidays#faq",
+    "imageUrl": "https://mediacdn.giftcards.com/giftcards/bhn-catalog-product-images/07675037888.png2d78a3d8bdf44cfa1fd6f372a640e1e68ba7102c.png",
+    "price": 55.00,
+    "activationAmount": 50.00,
+    "currency": "USD",
+    "tax": 0.00,
+    "category": "DIGITAL_GOODS",
     "id": 1
   },
   {
-    "_class": "com.example.shoppingcart.model.entity.Product",
-    "name": "Tablette Android RCT6K03W13",
-    "description": "Tablette Android RCT6K03W13 H1 de RCA de 10,1 po avec clavier Quadricœur avec 1 Go de MEV",
-    "price": "178.0",
+    "_class": "com.bhn.shoppingcart.model.entity.Product",
+    "name": "Visa Meta eGift - $50.00",
+    "product_configuration_id": "W8P588XY6QRPN6N15BGAB8Y9A3",
+    "description": "Visa is the #1 selling gift card in the United States. The card can be used at millions of merchants in the U.S., including online - everywhere Visa cards are accepted. <br><br /> <span style=\"color: #990000;\">** There is a $2.00 shipping fee applied per card for every Visa gift cards over $250 to accommodate increased security measures for your protection!",
+    "termsAndConditions": "https://www.giftcards.com/gift-card-balance-check/happy-holidays#faq",
+    "imageUrl":"https://mediacdn.giftcards.com/giftcards/bhn-catalog-product-images/07675022697.png621decebf4dd28b22a1b43a411fd991566cd16ad.png",
+    "price": 55.95,
+    "activationAmount": 50.00,
+    "currency": "USD",
+    "tax": 0.00,
+    "category": "DIGITAL_GOODS",
     "id": 2
-  },
-  {
-    "_class": "com.example.shoppingcart.model.entity.Product",
-    "name": "Grimpeur et toboggan Hide & Seek de Little Tikes",
-    "description": "Un toboggan, une balançoire, et un mur de roches",
-    "price": "159.20",
-    "id": 3
-  },
-  {
-    "_class": "com.example.shoppingcart.model.entity.Product",
-    "name": "Voyager 5200 Bluetooth Headset",
-    "description": "Oreillette Bluetooth Plantronics Voyager 5200",
-    "price": "104.48",
-    "id": 4
-  },
-  {
-    "_class": "com.example.shoppingcart.model.entity.Product",
-    "name": "Écouteurs sans fil Innovative Technology",
-    "description": "Livré avec un émetteur à DEL bleu, des adaptateurs de 3,5 mm et RCA",
-    "price": "36.98",
-    "id": 5
-  },
-  {
-    "_class": "com.example.shoppingcart.model.entity.Product",
-    "name": "Casque d'écoute supra-auriculaire de Koss - SB49",
-    "description": "Communication stéréophonique",
-    "price": "47.98",
-    "id": 6
-  },
-  {
-    "_class": "com.example.shoppingcart.model.entity.Product",
-    "name": "APPIE Smart Watch Fitnes",
-    "description": "Tracker with Heart Rate Monitor Activity Trackers 7 Sport Modes IP67 Waterproof Sleep Monitor",
-    "price": "35.69",
-    "id": 7
-  },
-  {
-    "_class": "com.example.shoppingcart.model.entity.Product",
-    "name": "Bracelet d'entraînement Flex 2 de Fitbit",
-    "description": "Mesure la distance parcourue, l'activité par heure, la dépense calorique et le nombre de pas",
-    "price": "79.95",
-    "id": 8
-  },
-  {
-    "_class": "com.example.shoppingcart.model.entity.Product",
-    "name": "Fitbit Charge Bracelet évolué pour l'entraînement",
-    "description": "Bracelet évolué pour l'entraînement",
-    "price": "199.94",
-    "id": 9
-  },
-  {
-    "_class": "com.example.shoppingcart.model.entity.Product",
-    "name": "Vélo de Montagne de 26 po Movelo",
-    "description": "Une poignée de changement à 18 vitesses",
-    "price": "98.95",
-    "id": 10
   }
 ]
